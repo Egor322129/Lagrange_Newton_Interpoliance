@@ -1,2 +1,2 @@
-# Lagrange_Newton_Interpoliance
+# Lagrange Newton Interpoliance
 Interpolation with python
