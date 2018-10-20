@@ -17,6 +17,7 @@ checkDotsNum = 100
 - It uses equidistant and optimal nodes of interpolation, so you can compare two approaches
 ## Results
 Programm plots aproximation, so you can see it works very well!
+
 ![Screenshot](2018-10-20 16_44_14-Window.png)
 Also you program shows digressions from test function and creates  table, that reflects information by text
 ![Screenshot](2018-10-20 16_45_20-Window.png)
