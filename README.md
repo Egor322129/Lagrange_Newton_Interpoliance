@@ -19,6 +19,7 @@ checkDotsNum = 100
 Programm plots aproximation, so you can see it works very well!
 
 ![Screenshot](w1.png)
+
 Also you program shows digressions from test function and creates  table, that reflects information by text
 
 ![Screenshot](w2.png)
